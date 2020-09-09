@@ -1,1 +1,6 @@
 # Semana5_introGit
+
+### Hola, este es mi primer repo... 
+
+
+Me encanta git.... porque se ve como hackerman...
